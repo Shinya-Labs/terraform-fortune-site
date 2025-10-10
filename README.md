@@ -19,7 +19,7 @@ Terraformで構築する占いサイト☆
 ├── main.tf
 ├── variables.tf
 ├── outputs.tf
-└── architecture.png```
+└── architecture.png
 
 ## 🖼 構成図
 !構成図
