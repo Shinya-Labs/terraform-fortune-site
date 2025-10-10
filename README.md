@@ -14,8 +14,8 @@ Terraformで構築する占いサイト☆
 ## 📁 ディレクトリ構成
 
 terraform-fortune-site/
-├── html/
-│   └── index.html
+├── ```html/```
+│   └── ```index.html```
 ├── main.tf
 ├── variables.tf
 ├── outputs.tf
