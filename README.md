@@ -1,4 +1,4 @@
-# terraform-fortune-site
+```# terraform-fortune-site
 Terraformで構築する占いサイト☆
 
 # Fortune Site with Terraform
@@ -13,7 +13,7 @@ Terraformで構築する占いサイト☆
 
 ## 📁 ディレクトリ構成
 
-```terraform-fortune-site/
+terraform-fortune-site/
 ├── html/
 │   └── index.html
 ├── main.tf
@@ -22,7 +22,7 @@ Terraformで構築する占いサイト☆
 └── architecture.png
 
 ## 🖼 構成図
-!(terraform-fortune-site/architecture.png)
+!(architecture.png)
 
 ## 🚀 デプロイ手順
 1. AWS CLIの認証設定
