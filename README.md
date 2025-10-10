@@ -23,6 +23,7 @@ Terraformで構築する占いサイト☆
 
 ## 🖼 構成図
 
+
 ## 🚀 デプロイ手順
 1. AWS CLIの認証設定
 2. "terraform init"
