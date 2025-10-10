@@ -13,13 +13,13 @@ Terraformで構築する占いサイト☆
 
 ## 📁 ディレクトリ構成
 
-terraform-fortune-site/
-├── ```html/```
-│   └── ```index.html```
+```terraform-fortune-site/
+├── html/
+│   └── index.html
 ├── main.tf
 ├── variables.tf
 ├── outputs.tf
-└── architecture.png
+└── architecture.png```
 
 ## 🖼 構成図
 !構成図
