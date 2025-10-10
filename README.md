@@ -21,7 +21,6 @@ Terraformで構築する占いサイト☆
 ├── outputs.tf
 └── architecture.png
 
-```markdown
 ## 🖼 構成図
 !構成図
 
