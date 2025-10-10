@@ -22,7 +22,7 @@ Terraformで構築する占いサイト☆
 └── architecture.png
 
 ## 🖼 構成図
-!構成図
+! 構成図
 
 ## 🚀 デプロイ手順
 1. AWS CLIの認証設定
