@@ -10,6 +10,7 @@ Terraformで構築する占いサイト☆
 - Terraform
 - AWS（S3, CloudFront）
 - HTML/CSS/JavaScript
+- Copilot ※本フォーマット作成補助
 
 ## 📁 ディレクトリ構成
 ```
@@ -20,7 +21,7 @@ terraform-fortune-site/
 ├── variables.tf
 ├── outputs.tf
 └── images/
-    └── architecture_fortune.png
+    └── architecture_fortune.png ※文字化け
 ```
 ## 🖼 構成図
 
