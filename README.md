@@ -23,7 +23,7 @@ terraform-fortune-site/
 
 ## 🖼 構成図
 
-![構成図](images/architecture_fortune.png)
+![構成図](image/architecture_fortune.png)
 
 ## 🚀 デプロイ手順
 1. AWS CLIの認証設定
