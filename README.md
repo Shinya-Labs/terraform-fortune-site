@@ -20,7 +20,7 @@ terraform-fortune-site/
 ├── variables.tf
 ├── outputs.tf
 ├── images/
-│   └── architecture_fortune.png
+    └── architecture_fortune.png
 ```
 ## 🖼 構成図
 
