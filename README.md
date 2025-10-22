@@ -1,4 +1,4 @@
-```# terraform-fortune-site
+# terraform-fortune-site
 Terraformで構築する占いサイト☆
 
 # Fortune Site with Terraform
@@ -12,7 +12,7 @@ Terraformで構築する占いサイト☆
 - HTML/CSS/JavaScript
 
 ## 📁 ディレクトリ構成
-
+```
 terraform-fortune-site/
 ├── html/
 │   └── index.html
