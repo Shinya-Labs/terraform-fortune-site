@@ -25,6 +25,8 @@ terraform-fortune-site/
 ```
 ## 🖼 構成図
 
+この画像は、Terraformで構築される占いサイトのインフラ構成（CloudFront → S3 → HTMLホスティング）を視覚的に表現したものです。
+
 ![構成図](images/architecture_fortune.png)
 
 ## 🚀 デプロイ手順
